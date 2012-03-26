@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/Joseph/.vim/bundle/python-mode/plugin'
+let g:netrw_dirhist_2='/Users/Joseph/Dropbox/Projects/project_local_settings/services_project_local_settings'
+let g:netrw_dirhist_3='/Users/Joseph/Dropbox/Projects/project_local_settings'
+let g:netrw_dirhist_4='/Users/Joseph/Dropbox/Projects'
+let g:netrw_dirhist_5='/Users/Joseph/Dropbox/Projects/djangoTut'
+let g:netrw_dirhist_6='/Users/Joseph/VagrantNation/openWMSBox'
+let g:netrw_dirhist_7='/Users/Joseph/VagrantNation'
+let g:netrw_dirhist_8='/Users/Joseph/VagrantNation/ubuntuBox'
